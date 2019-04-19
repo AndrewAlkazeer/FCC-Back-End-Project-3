@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.4",
+    "mocha": "^6.0.2",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.13.18",
+    "morgan": "1.9.1",
+    "nodemon": "^1.18.10"
+  }
+}
